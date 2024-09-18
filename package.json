@@ -1,0 +1,22 @@
+{
+  "name": "hotelapi",
+  "version": "1.0.0",
+  "description": "full stack api",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "api,node js"
+  },
+  "keywords": [
+    "\"rj\""
+  ],
+  "author": "\"rj\"",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.5",
+    "prettier": "^3.3.3"
+  }
+}
